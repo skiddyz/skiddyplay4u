@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml,http://poid0020.trueddns.com:54337/guide.xml,https://iptv36.vercel.app/epg.xml,https://epg.pw/xmltv/epg_TH.xml, https://www.bevy.be/bevyfiles/thailandpremium.xml,https://xmltv.tvkaista.net/guides/tv.trueid.net.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="Welcome To 🌸skiddy's JP4U🌸" tvg-logo="https://avatars.githubusercontent.com/u/145141052?v=4",Welcome To 🌸skiddy's JP4U🌸
 https://google.com
