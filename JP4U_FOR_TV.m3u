@@ -1,5 +1,3 @@
-#EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml,http://poid0020.trueddns.com:54337/guide.xml,https://iptv36.vercel.app/epg.xml,https://epg.pw/xmltv/epg_TH.xml, https://www.bevy.be/bevyfiles/thailandpremium.xml,https://xmltv.tvkaista.net/guides/tv.trueid.net.xml" tvg-shift=0 m3uautoload=1
-
 #Tokyo1
 #EXTINF:-1 group-title="📺🗼Tokyo" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
 http://vthanh.utako.moe/NHK_G/index.m3u8
@@ -82,3 +80,6 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilmasia.m3u8
 #NSFW
 #EXTINF:-1 group-title="📺🔞NSFW" tvg-id="Pigoo.jp" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",PigooHD (pigoo.jp)
 http://luong.utako.moe/pigoo/index.m3u8
+#EXTINF:-1 group-title="📺🔞NSFW" tvg-id="JAV" tvg-logo="https://i.vgy.me/EKBJmR.png", หนังเอวี 24/7
+#EXTVLCOPT:http-user-agent=เพลย์ลิสต์จากกลุ่ม
+https://bit.ly/43df70h
