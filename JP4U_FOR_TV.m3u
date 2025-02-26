@@ -82,6 +82,9 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilmasia.m3u8
 #NSFW
 #EXTINF:-1 group-title="📺🔞NSFW" tvg-id="Pigoo.jp" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",PigooHD (pigoo.jp)
 http://luong.utako.moe/pigoo/index.m3u8
+#EXTINF:-1 group-title="📺🔞NSFW" tvg-id="" tvg-logo="https://i.vgy.me/EKBJmR.png", หนังเอวี (JAV) 24/7
+#EXTVLCOPT:http-user-agent=@leakedbywiselick
+https://bit.ly/3DgZNVK
 
 #Movies
 #EXTINF:-1 group-title="🎥หนังญี่ปุ่น (อัพเดตทุกวันเสาร์)" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/10/Previously-Saved-Version.jpg",Previously Saved Version บันทึกความทรงจำข้ามดวงดาว (2024)
