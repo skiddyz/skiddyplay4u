@@ -15,7 +15,7 @@
 - โปรแกรมที่ Support m3u
 ```
 
-📎ลิ้งค์หลัก (m3u++ ทีวีออนไลน์และหนังซีรีย์บางเรื่อง) : `https://bit.ly/JP4M3U`
+📎ลิ้งค์หลัก (m3u++ ทีวีออนไลน์เท่านั้น) : `https://bit.ly/JP4M3U`
 📎ลิ้งค์แอพ (ช่องทีวีเท่านั้น) : [JP4U DOWNLOAD](https://www.mediafire.com/file/a9eamxogfncj43i/JP4U_signed_compiled.apk/file)
 
 📎ลิ้งค์หลัก (wiseplay ครบทุก Content) : `Soon.`
