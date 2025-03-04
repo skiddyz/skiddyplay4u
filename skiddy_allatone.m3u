@@ -263,6 +263,8 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/ci.m3u8
 #EXTINF:-1  group-title="วาไรตี้ความบันเทิง" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png",AXN
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueAXN.m3u8
+#EXTINF:-1  group-title="วาไรตี้ความบันเทิง" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp",TRUE X-ZYTE
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truexzyte.m3u8
 
 
 #สารคดี
@@ -276,7 +278,12 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/aisDiscover.m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueH2.m3u8
 #EXTINF:-1 group-title="สารคดี" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png",BBC Lifestyle
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueBBCLIFESTYLE.m3u8
-
+#EXTINF:-1 group-title="สารคดี"   tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorelife.m3u8
+#EXTINF:-1  group-title="สารคดี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexploresci.m3u8
+#EXTINF:-1  group-title="สารคดี" tvg-id="DOCTrueExpWild.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",True Explore Wild
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorewild.m3u8
 
 #การ์ตูน
 #EXTINF:-1 group-title="การ์ตูน" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png",CARTOON NETWORK 
