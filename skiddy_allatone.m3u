@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml,https://iptv36.vercel.app/epg.xml,https://epg.pw/xmltv/epg_TH.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://xmltv.tvkaista.net/guides/tv.trueid.net.xml" refresh="3600" 
 
-#ดิจิตอลทีวี
 EXTINF:-1 tvg-chno="2" tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" group-title="ดิจิตอลทีวี", NBT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
